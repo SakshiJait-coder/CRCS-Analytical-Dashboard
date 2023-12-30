@@ -1,4 +1,4 @@
-## Hackathon Problem Statement: Creation of dashboard for CRCS portal
+## Creation of dashboard for CRCS portal
 The Central Registrar for Cooperative Societies (CRCS) is responsible for registering and 
 regulating multistate cooperative societies in India, in accordance with the MSCS Act of 2002. 
 As part of this hackathon, the task is to design and develop a comprehensive dashboard for the 
